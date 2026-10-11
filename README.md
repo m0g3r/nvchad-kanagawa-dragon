@@ -26,4 +26,4 @@ Tested with NvChad v2.5. v3.0 loads custom themes the same way, but I haven't tr
 
 ## Credits
 
-Colors from [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) by rebelot. NvChad UI colors from the kanagawa-dragon theme in [base46](https://github.com/NvChad/base46).
+Colors from [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) by rebelot (Copyright (c) 2021 Tommaso Laurenzi, MIT). NvChad UI colors from the kanagawa-dragon theme in [base46](https://github.com/NvChad/base46) (Copyright (c) 2019 Ashkan Kiani, MIT).
